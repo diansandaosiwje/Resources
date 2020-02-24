@@ -1,2 +1,2 @@
-# recourse
-To provide recourse an URL on the web.
+# Resources
+To provide Resources an URL on the web.
